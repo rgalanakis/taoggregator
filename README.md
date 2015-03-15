@@ -1,6 +1,4 @@
-Taoggregator: A content feed aggregator and reposter.
-
-Overview
+Taoggregator
 ========
 
 Taoggregator is a service that can be used to aggregate and harvest content from any number of sources,
